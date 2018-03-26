@@ -5,3 +5,7 @@
   3. Document : https://developer.mozilla.org/en-US/docs/Web/API/Document/Document
   4. Web API's : https://developer.mozilla.org/en-US/docs/Web/API
   5. CSS : https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#DOM-CSS_CSSOM
+
+## BASES JAVASCRIPT
+  1. https://javascript.info/
+  2. https://davidwalsh.name/
