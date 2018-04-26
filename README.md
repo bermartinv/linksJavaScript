@@ -12,6 +12,8 @@
 
 ## WAI.ARIA
   1. https://www.w3.org/TR/wai-aria-practices/
+  2. https://www.w3.org/TR/wai-aria/
+  
 ## Testing code
   1. performance.now() https://developer.mozilla.org/en-US/docs/Web/API/Performance/now
   2. Performance API https://developer.mozilla.org/en-US/docs/Web/API/Performance
