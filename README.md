@@ -9,6 +9,11 @@
 ## BASES JAVASCRIPT
   1. https://javascript.info/
   2. https://davidwalsh.name/
+  3. let https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let
+  4. const https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const
+  5. Functions https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions
+  6. Memory management https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management
+  7. Closures https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
 
 ## WAI.ARIA
   1. https://www.w3.org/TR/wai-aria-practices-1.1/
