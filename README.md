@@ -21,3 +21,6 @@
 
 ## Material design
   1. https://material.io/guidelines/
+
+## Array.prototype
+  1. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/prototype
