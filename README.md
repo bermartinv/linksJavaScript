@@ -14,7 +14,11 @@
   5. Functions https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions
   6. Memory management https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management
   7. Closures https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
-
+  8. Function declarations vs Function Expressions https://javascriptweblog.wordpress.com/2010/07/06/function-declarations-vs-function-expressions/
+  9. IIFE http://adripofjavascript.com/blog/drips/an-introduction-to-iffes-immediately-invoked-function-expressions.html
+          http://benalman.com/news/2010/11/immediately-invoked-function-expression/
+   
+  
 ## WAI.ARIA
   1. https://www.w3.org/TR/wai-aria-practices-1.1/
   2. https://www.w3.org/TR/wai-aria-1.1/
@@ -29,3 +33,8 @@
 
 ## Array.prototype
   1. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/prototype
+  
+## Books
+  1. Learning JavaScript Design Patterns https://addyosmani.com/resources/essentialjsdesignpatterns/book/
+  2. JavaScript & jQuery The missing manual http://web-algarve.com/books/JS%20AJAX%20jquery%20&%20angular/JavaScript%20&%20jQuery-%20The%20Missing%20Manual,%203rd%20Edition.pdf
+  
