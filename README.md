@@ -21,6 +21,7 @@
 ## CLASES Y OBJETOS
   1. Create new object https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new
   2. instanceof https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/instanceof
+  3. this https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this
   
 ## WAI.ARIA
   1. https://www.w3.org/TR/wai-aria-practices-1.1/
