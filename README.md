@@ -6,6 +6,10 @@
   4. Web API's : https://developer.mozilla.org/en-US/docs/Web/API
   5. CSS : https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#DOM-CSS_CSSOM
 
+## GIT
+  1. Git download https://git-scm.com/downloads
+  2. Git documentation https://git-scm.com/doc
+  3. Bitbucket https://git-scm.com/doc
 ## BASES JAVASCRIPT
   1. https://javascript.info/
   2. https://davidwalsh.name/
