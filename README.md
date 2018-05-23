@@ -22,6 +22,7 @@
   8. Function declarations vs Function Expressions https://javascriptweblog.wordpress.com/2010/07/06/function-declarations-vs-function-expressions/
   9. IIFE http://adripofjavascript.com/blog/drips/an-introduction-to-iffes-immediately-invoked-function-expressions.html
           http://benalman.com/news/2010/11/immediately-invoked-function-expression/
+  10. Garbage collection https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management#Garbage_collection
   
 ## CLASES Y OBJETOS
   1. Create new object https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new
