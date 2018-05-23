@@ -11,6 +11,7 @@
   1. Git download https://git-scm.com/downloads
   2. Git documentation https://git-scm.com/doc
   3. Bitbucket https://git-scm.com/doc
+  
 ## BASES JAVASCRIPT
   1. https://javascript.info/
   2. https://davidwalsh.name/
@@ -37,7 +38,11 @@
   10. constructor https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/constructor
   11. create https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/create
   12 __proto__ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain
-  
+
+## JavaScript pattern
+  1. Object Literal Pattern https://medium.com/@jaysoifer/javascript-the-object-literal-pattern-fb516ed91852
+  2. JavaScript Design Pattern https://medium.com/@jaysoifer/javascript-design-patterns-introduction-ece5eee25b7c
+  3. Module Pattern https://medium.com/@jaysoifer/javascript-the-module-pattern-2c5d58bc3dce
 ## WAI.ARIA
   1. https://www.w3.org/TR/wai-aria-practices-1.1/
   2. https://www.w3.org/TR/wai-aria-1.1/
@@ -45,6 +50,11 @@
 
 ## Promise
   1. https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Promise
+
+## Readme
+  1. Example of Readme https://gist.github.com/PurpleBooth/109311bb0361f32d87a2#file-readme-template-md
+  2. Dillinger tool to write Readme https://dillinger.io/
+  3. Markdown https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
   
 ## Testing code
   1. performance.now() https://developer.mozilla.org/en-US/docs/Web/API/Performance/now
