@@ -42,6 +42,9 @@
   1. https://www.w3.org/TR/wai-aria-practices-1.1/
   2. https://www.w3.org/TR/wai-aria-1.1/
   3. roles https://www.w3.org/TR/html-aria/#allowed-aria-roles-states-and-properties
+
+## Promise
+  1. https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Promise
   
 ## Testing code
   1. performance.now() https://developer.mozilla.org/en-US/docs/Web/API/Performance/now
