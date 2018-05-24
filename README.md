@@ -43,6 +43,7 @@
   1. Object Literal Pattern https://medium.com/@jaysoifer/javascript-the-object-literal-pattern-fb516ed91852
   2. JavaScript Design Pattern https://medium.com/@jaysoifer/javascript-design-patterns-introduction-ece5eee25b7c
   3. Module Pattern https://medium.com/@jaysoifer/javascript-the-module-pattern-2c5d58bc3dce
+  
 ## WAI.ARIA
   1. https://www.w3.org/TR/wai-aria-practices-1.1/
   2. https://www.w3.org/TR/wai-aria-1.1/
@@ -50,6 +51,21 @@
 
 ## Promise
   1. https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Promise
+  
+## Proxy
+  1. Proxy https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Proxy
+  2. get https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy/handler/get
+  3. set https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy/handler/set
+  4. apply https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy/handler/apply
+  5. has https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy/handler/has
+  6. deleteProperty https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy/handler/deleteProperty
+  7. construct https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy/handler/construct
+  8. defineProperty https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy/handler/defineProperty
+  9. getOwnPropertyDescriptor https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy/handler/getOwnPropertyDescriptor
+  10. isExtensible https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy/handler/isExtensible
+  11. preventExtensions https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy/handler/preventExtensions
+  12. getProptotypeOf https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy/handler/getPrototypeOf
+  13. setPrototypeOf https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy/handler/setPrototypeOf
 
 ## Readme
   1. Example of Readme https://gist.github.com/PurpleBooth/109311bb0361f32d87a2#file-readme-template-md
