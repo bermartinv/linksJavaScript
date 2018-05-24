@@ -67,6 +67,9 @@
   12. getProptotypeOf https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy/handler/getPrototypeOf
   13. setPrototypeOf https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy/handler/setPrototypeOf
 
+## Generators
+  1. https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Generador
+  
 ## Readme
   1. Example of Readme https://gist.github.com/PurpleBooth/109311bb0361f32d87a2#file-readme-template-md
   2. Dillinger tool to write Readme https://dillinger.io/
@@ -87,6 +90,12 @@
   2. JavaScript & jQuery The missing manual http://web-algarve.com/books/JS%20AJAX%20jquery%20&%20angular/JavaScript%20&%20jQuery-%20The%20Missing%20Manual,%203rd%20Edition.pdf
   3. You-Dont-Know-JS https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes
   
+## ES6
+  1. ES6 Specification http://www.ecma-international.org/ecma-262/6.0/index.html
+     Compatibilty table of browser support for ECMAScript features. http://kangax.github.io/compat-table/es6/
+  2. Polyfill HTML5 Cross Browser Polyfills https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills
+  3. Babel Transpilling ES6 to ES5 https://babeljs.io/
+     Babel Short code http://babeljs.io/repl/#?babili=false&evaluate=true&lineWrap=false&presets=es2015
 ## APIS
   1. Object Playground http://www.objectplayground.com/
   
