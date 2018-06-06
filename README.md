@@ -78,6 +78,8 @@
 ## Testing code
   1. performance.now() https://developer.mozilla.org/en-US/docs/Web/API/Performance/now
   2. Performance API https://developer.mozilla.org/en-US/docs/Web/API/Performance
+  3. Jasmine https://jasmine.github.io/
+  4. wiki Jasmine https://github.com/jasmine/jasmine/wiki
 
 ## Material design
   1. https://material.io/guidelines/
