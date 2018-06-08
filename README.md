@@ -108,3 +108,7 @@
 
 ## SASS
   1. http://sass-lang.com/install
+
+## SCAFFOLDING
+  1. Yeoman http://yeoman.io/
+  2. Web starter kit https://developers.google.com/web/tools/starter-kit/
