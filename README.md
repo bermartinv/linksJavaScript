@@ -54,6 +54,10 @@
 
 ## Promise
   1. https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Promise
+  2. Steve Griffith https://www.youtube.com/watch?v=SmPouEFKOBg&list=PLyuRouwmQCjngZXVn48vYmPK_1yAF-fLw
+  3. sitepoint https://www.sitepoint.com/overview-javascript-promises/
+  4. trekinbami https://medium.com/@trekinbami/its-not-magic-using-es6-promises-in-javascript-cd0100a81e14
+  
   
 ## Proxy
   1. Proxy https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Proxy
@@ -72,7 +76,18 @@
 
 ## Generators
   1. https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Generador
+
+## AJAX
+  1. AJAX Crash Course https://www.youtube.com/watch?v=82hnvUYY6QA
+  2. FETCH API Traversy Media https://www.youtube.com/watch?v=Oive66jrwBs&t=9s
+  3. AJAX with FETCH Steve Griffith https://www.youtube.com/watch?v=7EKebb4VUYQ&list=PLyuRouwmQCjkWu63mHksI9EA4fN-vwGs7
   
+## ASYNCHRONOUS
+  1. Net Ninja https://www.youtube.com/watch?v=YxWMxJONp7E
+  2. trekinbami https://medium.com/@trekinbami/its-not-magic-understanding-asynchronous-code-7ab2f5d3296c
+  
+## JSON
+  1. Json Crash Course https://www.youtube.com/watch?v=wI1CWzNtE-M
 ## Readme
   1. Example of Readme https://gist.github.com/PurpleBooth/109311bb0361f32d87a2#file-readme-template-md
   2. Dillinger tool to write Readme https://dillinger.io/
