@@ -98,6 +98,8 @@
   2. Performance API https://developer.mozilla.org/en-US/docs/Web/API/Performance
   3. Jasmine https://jasmine.github.io/
   4. wiki Jasmine https://github.com/jasmine/jasmine/wiki
+  5. https://www.htmlgoodies.com/beyond/javascript/js-ref/testing-dom-events-using-jquery-and-jasmine-2.0.html
+  6. https://www.desarrolloweb.com/articulos/conociendo-jasmine.html
 
 ## Material design
   1. https://material.io/guidelines/
