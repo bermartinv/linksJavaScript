@@ -53,10 +53,11 @@
   1. https://developer.mozilla.org/es/docs/Web/JavaScript/Closures
 
 ## Promise
-  1. https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Promise
-  2. Steve Griffith https://www.youtube.com/watch?v=SmPouEFKOBg&list=PLyuRouwmQCjngZXVn48vYmPK_1yAF-fLw
-  3. sitepoint https://www.sitepoint.com/overview-javascript-promises/
-  4. trekinbami https://medium.com/@trekinbami/its-not-magic-using-es6-promises-in-javascript-cd0100a81e14
+  1. MDN https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Promise
+  2. Jake Archibald https://developers.google.com/web/fundamentals/primers/promises 
+  3. Steve Griffith https://www.youtube.com/watch?v=SmPouEFKOBg&list=PLyuRouwmQCjngZXVn48vYmPK_1yAF-fLw
+  4. sitepoint https://www.sitepoint.com/overview-javascript-promises/
+  5. trekinbami https://medium.com/@trekinbami/its-not-magic-using-es6-promises-in-javascript-cd0100a81e14
   
   
 ## Proxy
