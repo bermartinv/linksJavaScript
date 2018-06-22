@@ -83,6 +83,13 @@
   1. AJAX Crash Course https://www.youtube.com/watch?v=82hnvUYY6QA
   2. FETCH API Traversy Media https://www.youtube.com/watch?v=Oive66jrwBs&t=9s
   3. AJAX with FETCH Steve Griffith https://www.youtube.com/watch?v=7EKebb4VUYQ&list=PLyuRouwmQCjkWu63mHksI9EA4fN-vwGs7
+ 
+## XMLHttpRequest
+  1. W3C https://www.w3.org/TR/XMLHttpRequest/
+  2. xhr https://xhr.spec.whatwg.org/
+  3. MDN open() https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/open
+  4. MDN send() https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/send
+  5. MDN onload https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequestEventTarget/onload
   
 ## ASYNCHRONOUS
   1. Net Ninja https://www.youtube.com/watch?v=YxWMxJONp7E
@@ -90,6 +97,7 @@
   
 ## JSON
   1. Json Crash Course https://www.youtube.com/watch?v=wI1CWzNtE-M
+  
 ## Readme
   1. Example of Readme https://gist.github.com/PurpleBooth/109311bb0361f32d87a2#file-readme-template-md
   2. Dillinger tool to write Readme https://dillinger.io/
@@ -120,8 +128,15 @@
   2. Polyfill HTML5 Cross Browser Polyfills https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills
   3. Babel Transpilling ES6 to ES5 https://babeljs.io/
      Babel Short code http://babeljs.io/repl/#?babili=false&evaluate=true&lineWrap=false&presets=es2015
+     
 ## APIS
   1. Object Playground http://www.objectplayground.com/
+  2. https://www.programmableweb.com/apis/directory
+  3. Udacity API https://www.udacity.com/public-api/v1/catalog
+  4. Google API https://developers.google.com/apis-explorer/#p/
+  
+## CORS
+  1. https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
   
 ## GULP
   1. Install Gulp https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md
