@@ -90,6 +90,8 @@
   3. MDN open() https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/open
   4. MDN send() https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/send
   5. MDN onload https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequestEventTarget/onload
+  6. MDN XMLHttpRequest https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest
+  7. XHR" HTML5ROCKS https://www.html5rocks.com/en/tutorials/file/xhr2/
   
 ## ASYNCHRONOUS
   1. Net Ninja https://www.youtube.com/watch?v=YxWMxJONp7E
