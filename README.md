@@ -92,6 +92,10 @@
   5. MDN onload https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequestEventTarget/onload
   6. MDN XMLHttpRequest https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest
   7. XHR" HTML5ROCKS https://www.html5rocks.com/en/tutorials/file/xhr2/
+  8. breakpoint browser https://developers.google.com/web/tools/chrome-devtools/javascript/breakpoints
+  9. breakpoint browser https://developers.google.com/web/tools/chrome-devtools/javascript/reference
+  10. debugger https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Sentencias/debugger
+  11. jQuery https://learn.jquery.com/ajax/jquery-ajax-methods/
   
 ## ASYNCHRONOUS
   1. Net Ninja https://www.youtube.com/watch?v=YxWMxJONp7E
