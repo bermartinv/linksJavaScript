@@ -96,7 +96,16 @@
   9. breakpoint browser https://developers.google.com/web/tools/chrome-devtools/javascript/reference
   10. debugger https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Sentencias/debugger
   11. jQuery https://learn.jquery.com/ajax/jquery-ajax-methods/
-  
+ 
+ ## FETCH
+ 1. FETCH  https://developer.mozilla.org/es/docs/Web/API/WindowOrWorkerGlobalScope/fetch
+ 2. FETCH https://developer.mozilla.org/es/docs/Web/API/Fetch_API/Utilizando_Fetch
+ 3. FETCH API https://developer.mozilla.org/es/docs/Web/API/Fetch_API
+ 4. Headers https://developer.mozilla.org/en-US/docs/Web/API/Headers
+ 5. methods https://fetch.spec.whatwg.org/#methods
+ 6. request https://fetch.spec.whatwg.org/#requests
+ 7. *** davidwalsh https://davidwalsh.name/fetch
+ 
 ## ASYNCHRONOUS
   1. Net Ninja https://www.youtube.com/watch?v=YxWMxJONp7E
   2. trekinbami https://medium.com/@trekinbami/its-not-magic-understanding-asynchronous-code-7ab2f5d3296c
