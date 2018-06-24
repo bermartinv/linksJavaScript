@@ -35,6 +35,11 @@
   9. IIFE http://adripofjavascript.com/blog/drips/an-introduction-to-iffes-immediately-invoked-function-expressions.html
           http://benalman.com/news/2010/11/immediately-invoked-function-expression/
   10. Garbage collection https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management#Garbage_collection
+  11. EXPORT https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Sentencias/export
+  12. IMPORT https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Sentencias/import
+  13. MODULES https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/ch2.md#concise-methods
+              https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/ch3.md#modules
+              https://hacks.mozilla.org/2015/08/es6-in-depth-modules/
   
 ## EXPRESIONES REGULARES
   1. MDN https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Regular_Expressions
