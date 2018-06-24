@@ -1,4 +1,9 @@
 # linksJavaScript
+
+## DEVELOPER
+  1. https://developer.mozilla.org/es/
+  2. HTML5 https://developer.mozilla.org/es/docs/HTML/HTML5
+  
 ## DOM
   1. Node : https://developer.mozilla.org/en-US/docs/Web/API/Node
   2. Element : https://developer.mozilla.org/en-US/docs/Web/API/Element
@@ -6,7 +11,13 @@
   4. Web API's : https://developer.mozilla.org/en-US/docs/Web/API
   5. CSS : https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#DOM-CSS_CSSOM
   6. Reference DOM https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
-
+  7. HISTORY NAVEGADOR https://developer.mozilla.org/es/docs/DOM/Manipulando_el_historial_del_navegador
+  
+## EVENTS
+  1. https://developer.mozilla.org/es/docs/Web/API/WindowEventHandlers/onhashchange
+  2. https://developer.mozilla.org/es/docs/Web/Guide/DOM/Events/Creacion_y_Activaci%C3%B3n_Eventos
+  3. https://developer.mozilla.org/es/docs/Web/API/EventTarget/addEventListener
+  
 ## GIT
   1. Git download https://git-scm.com/downloads
   2. Git documentation https://git-scm.com/doc
@@ -25,6 +36,12 @@
           http://benalman.com/news/2010/11/immediately-invoked-function-expression/
   10. Garbage collection https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management#Garbage_collection
   
+## EXPRESIONES REGULARES
+  1. MDN https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Regular_Expressions
+  2. ELLOQUENT BOOK http://eloquentjavascript.net/09_regexp.html
+  3. TESTING EXPRESION https://regex101.com/
+  4. test https://regexr.com/
+
 ## CLASES Y OBJETOS
   1. Create new object https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new
   2. instanceof https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/instanceof
