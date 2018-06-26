@@ -132,6 +132,10 @@
   1. Net Ninja https://www.youtube.com/watch?v=YxWMxJONp7E
   2. trekinbami https://medium.com/@trekinbami/its-not-magic-understanding-asynchronous-code-7ab2f5d3296c
   
+## SERVICE WORKER
+  1. Is server worker ready? https://jakearchibald.github.io/isserviceworkerready/
+  2. MDN https://developer.mozilla.org/es/docs/Web/API/Service_Worker_API
+  3. MDN https://developer.mozilla.org/es/docs/Web/API/Service_Worker_API/Using_Service_Workers
 ## JSON
   1. Json Crash Course https://www.youtube.com/watch?v=wI1CWzNtE-M
   
