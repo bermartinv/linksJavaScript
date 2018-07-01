@@ -126,7 +126,8 @@
  4. Headers https://developer.mozilla.org/en-US/docs/Web/API/Headers
  5. methods https://fetch.spec.whatwg.org/#methods
  6. request https://fetch.spec.whatwg.org/#requests
- 7. *** davidwalsh https://davidwalsh.name/fetch
+ 7. request https://developer.mozilla.org/es/docs/Web/API/Request
+ 8. *** davidwalsh https://davidwalsh.name/fetch
  
 ## ASYNCHRONOUS
   1. Net Ninja https://www.youtube.com/watch?v=YxWMxJONp7E
@@ -136,6 +137,10 @@
   1. Is server worker ready? https://jakearchibald.github.io/isserviceworkerready/
   2. MDN https://developer.mozilla.org/es/docs/Web/API/Service_Worker_API
   3. MDN https://developer.mozilla.org/es/docs/Web/API/Service_Worker_API/Using_Service_Workers
+
+## CACHE API
+  1. cache API https://developer.mozilla.org/en-US/docs/Web/API/Cache
+
 ## JSON
   1. Json Crash Course https://www.youtube.com/watch?v=wI1CWzNtE-M
   
