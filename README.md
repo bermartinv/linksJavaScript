@@ -46,6 +46,7 @@
   2. ELLOQUENT BOOK http://eloquentjavascript.net/09_regexp.html
   3. TESTING EXPRESION https://regex101.com/
   4. test https://regexr.com/
+  5. MDN match method https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/match
 
 ## CLASES Y OBJETOS
   1. Create new object https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new
