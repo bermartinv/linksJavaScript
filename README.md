@@ -40,6 +40,7 @@
   13. MODULES https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/ch2.md#concise-methods
               https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/ch3.md#modules
               https://hacks.mozilla.org/2015/08/es6-in-depth-modules/
+  14. Destructuring https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Operadores/Destructuring_assignment
   
 ## EXPRESIONES REGULARES
   1. MDN https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Regular_Expressions
@@ -138,6 +139,7 @@
   1. Is server worker ready? https://jakearchibald.github.io/isserviceworkerready/
   2. MDN https://developer.mozilla.org/es/docs/Web/API/Service_Worker_API
   3. MDN https://developer.mozilla.org/es/docs/Web/API/Service_Worker_API/Using_Service_Workers
+  4. https://developers.google.com/web/fundamentals/codelabs/offline/
 
 ## CACHE API
   1. cache API https://developer.mozilla.org/en-US/docs/Web/API/Cache
