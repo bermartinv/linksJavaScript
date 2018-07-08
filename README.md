@@ -72,6 +72,7 @@
   1. https://www.w3.org/TR/wai-aria-practices-1.1/
   2. https://www.w3.org/TR/wai-aria-1.1/
   3. roles https://www.w3.org/TR/html-aria/#allowed-aria-roles-states-and-properties
+  4. accessible headings http://accessiblehtmlheadings.com/
 
 ## Closures
   1. https://developer.mozilla.org/es/docs/Web/JavaScript/Closures
@@ -139,7 +140,8 @@
   1. Is server worker ready? https://jakearchibald.github.io/isserviceworkerready/
   2. MDN https://developer.mozilla.org/es/docs/Web/API/Service_Worker_API
   3. MDN https://developer.mozilla.org/es/docs/Web/API/Service_Worker_API/Using_Service_Workers
-  4. https://developers.google.com/web/fundamentals/codelabs/offline/
+  4. https://developers.google.com/web/fundamentals/primers/service-workers/
+  5. https://developers.google.com/web/fundamentals/codelabs/offline/
 
 ## CACHE API
   1. cache API https://developer.mozilla.org/en-US/docs/Web/API/Cache
