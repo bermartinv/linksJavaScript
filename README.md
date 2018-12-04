@@ -41,6 +41,7 @@
               https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/ch3.md#modules
               https://hacks.mozilla.org/2015/08/es6-in-depth-modules/
   14. Destructuring https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Operadores/Destructuring_assignment
+  15. Arrays https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
   
 ## EXPRESIONES REGULARES
   1. MDN https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Regular_Expressions
