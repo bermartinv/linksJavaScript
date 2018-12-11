@@ -5,6 +5,7 @@
   2. HTML5 https://developer.mozilla.org/es/docs/HTML/HTML5
   
 ## DOM
+  0. Introduction : https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
   1. Node : https://developer.mozilla.org/en-US/docs/Web/API/Node
   2. Element : https://developer.mozilla.org/en-US/docs/Web/API/Element
   3. NodeList: https://developer.mozilla.org/es/docs/Web/API/NodeList
