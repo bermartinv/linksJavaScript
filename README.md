@@ -10,10 +10,11 @@
   2. Element : https://developer.mozilla.org/en-US/docs/Web/API/Element
   3. NodeList: https://developer.mozilla.org/es/docs/Web/API/NodeList
   4. Document : https://developer.mozilla.org/en-US/docs/Web/API/Document/Document
-  5. Web API's : https://developer.mozilla.org/en-US/docs/Web/API
-  6. CSS : https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#DOM-CSS_CSSOM
-  7. Reference DOM https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
-  8. HISTORY NAVEGADOR https://developer.mozilla.org/es/docs/DOM/Manipulando_el_historial_del_navegador
+  5. Array :https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array
+  6. Web API's : https://developer.mozilla.org/en-US/docs/Web/API
+  7. CSS : https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#DOM-CSS_CSSOM
+  8. Reference DOM https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
+  9. HISTORY NAVEGADOR https://developer.mozilla.org/es/docs/DOM/Manipulando_el_historial_del_navegador
   
 ## EVENTS
   1. https://developer.mozilla.org/es/docs/Web/API/WindowEventHandlers/onhashchange
