@@ -17,9 +17,11 @@
   9. HISTORY NAVEGADOR https://developer.mozilla.org/es/docs/DOM/Manipulando_el_historial_del_navegador
   
 ## EVENTS
-  1. https://developer.mozilla.org/es/docs/Web/API/WindowEventHandlers/onhashchange
-  2. https://developer.mozilla.org/es/docs/Web/Guide/DOM/Events/Creacion_y_Activaci%C3%B3n_Eventos
-  3. https://developer.mozilla.org/es/docs/Web/API/EventTarget/addEventListener
+  1. Controlar eventos por consola https://developers.google.com/web/tools/chrome-devtools/console/events#monitor_events
+  2. https://developer.mozilla.org/es/docs/Web/API/WindowEventHandlers/onhashchange
+  3. https://developer.mozilla.org/es/docs/Web/Guide/DOM/Events/Creacion_y_Activaci%C3%B3n_Eventos
+  4. https://developer.mozilla.org/es/docs/Web/API/EventTarget/addEventListener
+  5. Eventos https://developer.mozilla.org/en-US/docs/Web/Events
   
 ## GIT
   1. Git download https://git-scm.com/downloads
