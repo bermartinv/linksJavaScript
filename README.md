@@ -15,6 +15,7 @@
   7. CSS : https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#DOM-CSS_CSSOM
   8. Reference DOM https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
   9. HISTORY NAVEGADOR https://developer.mozilla.org/es/docs/DOM/Manipulando_el_historial_del_navegador
+  10. https://developer.mozilla.org/en-US/docs/Web/API/DocumentFragment
   
 ## EVENTS
   1. Controlar eventos por consola https://developers.google.com/web/tools/chrome-devtools/console/events#monitor_events
