@@ -80,6 +80,7 @@
   2. https://www.w3.org/TR/wai-aria-1.1/
   3. roles https://www.w3.org/TR/html-aria/#allowed-aria-roles-states-and-properties
   4. accessible headings http://accessiblehtmlheadings.com/
+  5. Contraste https://chrome.google.com/webstore/detail/high-contrast/djcfdncoelnlbldjfhinnjlhdjlikmph?hl=en
 
 ## Closures
   1. https://developer.mozilla.org/es/docs/Web/JavaScript/Closures
