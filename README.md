@@ -193,7 +193,9 @@
   2. https://www.programmableweb.com/apis/directory
   3. Udacity API https://www.udacity.com/public-api/v1/catalog
   4. Google API https://developers.google.com/apis-explorer/#p/
-  
+
+## HTML5 API
+  1. https://whatwebcando.today/
 ## CORS
   1. https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
   
